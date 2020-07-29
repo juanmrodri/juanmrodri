@@ -13,8 +13,11 @@ I´m a freelancer web dev, based in Buenos Aires, Argentina.
     <link rel="stylesheet" href="css/syles.css" media="screen" title="no title">
   </head>
   <body>
-   
-
+   <div class="caja">
+                  <div class="contenido">
+                      Caja 3
+                  </div>
+              </div>
 
   </body>
 </html>
