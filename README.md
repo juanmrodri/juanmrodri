@@ -1,10 +1,20 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on // last "idiot app" was COVID cases https://flask-covid.herokuapp.com/ Python + HTML5 + CSS3
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Python,
-- 💬 Ask me about ...
-- 📫 How to reach me: juanmrodriguez1989@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Lead guitar in @marblemachinebande
+💻
+
+I´m a freelancer web dev, based in Buenos Aires, Argentina.
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Welcome to my hub!</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/syles.css" media="screen" title="no title">
+  </head>
+  <body>
+   
+
+
+  </body>
+</html>
