@@ -16,11 +16,6 @@
                 <td>
                     <div style="display:flex;">
                         <div style="padding-right: 6px;">
-                            <a href="">
-                                <img style="width: 150px; height: 150px; border-radius: 100px; background-position: center;"
-                                    src="https://avatars0.githubusercontent.com/u/21976783?s=460&u=50ce4b11e55548dc3d07e8d5e826f52147a9ec02&v=4"
-                                    alt="">
-                            </a>
                         </div>
                         <div style="background-color: #6E8ACB; width: 2px; height: 150px;">
                         </div>
@@ -63,12 +58,6 @@
                             </div>
                         </div>
                         <div style="display: flex;">
-                            <div
-                                style="font-weight:lighter; font-family:Arial, Helvetica, sans-serif; font-size: 15px; color: #6E8ACB; margin-right: 15px;">
-                                <i style="font-size: 14px;" class="fas fa-phone"></i>
-                                <a style=" text-decoration: none; color: #000; font-size: 12px;"
-                                    href="https://wa.me/5491136121554">&#9990; +5491136121554</a>
-                            </div>
                             <div
                                 style="font-weight:lighter; font-family:Arial, Helvetica, sans-serif; font-size: 15px; color: #000; margin-right: 15px; ">
                                 <a style=" text-decoration: none; color: #6E8ACB; font-size: 12px;"
